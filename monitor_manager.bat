@@ -1,0 +1,1 @@
+start /B pythonw "<absolute_path_to_your_script>\main.py"
